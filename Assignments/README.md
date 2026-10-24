@@ -63,6 +63,55 @@ This assignment was given by IFEXA Data Analysis Academy, Cohort 2, to practise 
 - Microsoft Excel
 - GitHub
 
+---
+
+## 📊 Excel Assignment 02: Lookup Functions
+
+### 📌 Assignment Overview
+This assignment was completed as part of the IFEXA Data Analysis Academy, Cohort 2, using the IFEXA Real-World Sales Dataset (200 Rows).
+
+The objective was to practise lookup functions in Microsoft Excel to retrieve sales information using Order IDs and handle errors when an order cannot be found.
+
+### 🛠️ Functions Practised
+- **VLOOKUP:** Retrieved information using exact-match lookups.
+- **XLOOKUP:** Retrieved data by searching for an Order ID and returning the corresponding information.
+- **IFERROR:** Handled lookup errors and displayed a user-friendly message when an order was not found.
+
+### 📝 Assignment Tasks
+
+#### Section A: VLOOKUP
+- Retrieved Product, Salesperson, Region, Units Sold, Revenue, Profit, and Payment Status using specified Order IDs.
+- Applied exact-match lookups to identify the correct records.
+
+#### Section B: XLOOKUP
+- Practised retrieving Product, Delivery Days, Customer Rating, Unit Price, and Profitability using Order IDs.
+
+#### Section C: IFERROR
+- Tested a nonexistent Order ID (`IFX-S-9999`).
+- Used error handling to display "Order not found".
+- Explained the importance of handling errors in lookup functions.
+
+#### Section D: Practical Challenge — Sales Lookup Tool
+Built a simple Excel lookup tool that allows a user to enter an Order ID and automatically retrieve:
+
+- Order Date
+- Salesperson
+- Region
+- Product
+- Units Sold
+- Revenue (₦)
+- Profit (₦)
+- Payment Status
+
+### 💡 Key Learning Outcomes
+- Learned how lookup functions retrieve information from a sales dataset.
+- Practised exact-match lookups.
+- Improved my understanding of Excel error handling.
+- Built a practical tool for retrieving sales records automatically.
+- Strengthened my spreadsheet automation and data analysis skills.
+
+### 🚀 Skills Demonstrated
+Microsoft Excel | VLOOKUP | XLOOKUP | IFERROR | Data Retrieval | Spreadsheet Automation | Data Analysis
 ## Assignment Information
 - **Institution:** IFEXA Data Analysis Academy
 - **Cohort:** 2
